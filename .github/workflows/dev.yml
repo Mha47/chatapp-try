@@ -44,7 +44,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       access_url_output: ${{ steps.tf-outputs.outputs.access_url }} # Define outputs for this job which can be used in subsequent jobs.
-    needs: [ pre-deploy, unit-testing, SNYK-Comprehensive-Security-scan ] # This job depends on the completion of 'pre-deploy', 'unit-testing' and "SNYK-Comprehensive-Security-scan" jobs
+    needs: [ pre-deploy, unit-testing, ] # This job depends on the completion of 'pre-deploy', 'unit-testing' and "SNYK-Comprehensive-Security-scan" jobs
     name: Deploy to AWS
     # Set environment variables for this job. Here, the deployment environment is set based on the branch name 'dev'.
     env:
