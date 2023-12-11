@@ -1,9 +1,6 @@
-# chatapp-try this was written in feature branch 1
-
-# (SCTP) Cloud Infrastructure Engineering Capstone Project Documentation
-## Case 3 - Securtiy Focused (DevSecOps)
-### by Group 2: Chan Weng Siong, Chris Pang, David Suntama, Lim Poh Guan and Ng Poh Leng
-<br>
+# (SCTP) Cloud Infrastructure Engineering Capstone Project 
+## Cohort 3 Group 2
+## Members: Neo Chih Hao, Zaw Nyein Aung, Sharir, Nasiruddin, Soh Guo Yuen
 <br>
 
 # Company Profile
