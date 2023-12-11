@@ -3,50 +3,15 @@
 ## Members: Neo Chih Hao, Zaw Nyein Aung, Sharir, Nasiruddin, Soh Guo Yuen
 <br>
 
-# Company Profile
-ChatSecure is a dynamic and innovative tech startup specializing in DevSecOps services. Founded in 2023, our company brings together a team of five dedicated tech experts with a shared passion for enhancing software development and operational processes through security-first practices. We are committed to helping organizations achieve a secure and efficient software development lifecycle.
+# Project 
+Project Name: Wadapdoge
 
-# Company Mission Statement
-At ChatSecure, our mission is to empower businesses to seamlessly integrate security into their software development and operations. We strive to create a culture of security awareness while expediting the delivery of robust software solutions, thus reducing vulnerabilities and risks.
-
-# Core Services
-1. DevSecOps Consulting: Our team of DevSecOps specialists, including Chris, David, Poh Guan, Poh Leng, and Weng Siong, provides expert guidance and tailored strategies to facilitate the effective adoption of DevSecOps principles within your organization.
-2. Secure CI/CD Pipeline Setup: We design, develop, and implement secure Continuous Integration and Continuous Deployment (CI/CD) pipelines that include automated security testing and compliance checks, streamlining your development workflows while enhancing security measures.
-3. Vulnerability Management: ChatSecure offers comprehensive vulnerability assessment and management services, identifying and mitigating security weaknesses in your applications and infrastructure, ensuring early detection and remediation of potential threats.
-4. Security Automation: Leveraging cutting-edge automation tools and techniques, we seamlessly integrate security throughout your software development lifecycle. This includes automated code scanning, configuration management, and threat detection.
-
-# Our Team
-Our developers are the architects behind Project Titanium. They leverage their expertise in programming languages, such as Python, Java, and C++, to design, develop, and implement robust and scalable software solutions. Their skills range from front-end development for intuitive user interfaces to back-end systems that power our products' functionality:
-
-1. Weng Siong - Co-founder and CEO, a visionary leader with a cybersecurity and software development background (CI/CD/SCA).
-2. Poh Leng - Chief Security Officer (CSO), a seasoned security specialist with expertise in threat detection and incident response (CI/CD/SAST).
-3. Poh Guan - Security Analyst, proficient in vulnerability assessment and management (CI/CD/OIDC/Docker).
-4. David - Security Analyst, proficient in vulnerability assessment and management (CI/CD/OIDC/IaC).
-5. Chris - DevOps Engineer, experienced in building secure CI/CD pipelines and automation (CI/CD/DAST).
-
-# Customer Request
-In a high-security workplace with strict app restrictions, Sarah, the IT head, faced a communication problem. She couldn't install chat apps on company devices, yet the slow email system hindered real-time communication.
-
-Our Solution: Our company proposed creating an in-house browser-based chat app, custom-built for security. It had basic text chat functions, with no multimedia features, and operated within the company's secure network.
-
-Development and Testing: Our team developed a secure, isolated network and a minimalistic chat interface. After thorough testing, it was rolled out gradually.
-
-Desired Results: The new chat app improved real-time communication without compromising security. It boosted productivity and collaboration, and other high-security workplaces sought their advice. This solution had not only solved Sarah company's problem but also helped others facing similar challenges.
-
-Project Name: Titanium
-Repository: [Titanium Project Repo](https://github.com/Dylon-Chan/group2-capstone-project)
-
-
-# Requirement / Criteria for Project Titanium
-1. A typical CICD Pipeline
-2. Implement dependency screening in CI Script
-3. Ensure proper authentication and authorization in each environment in CD Script. (e.g. credentials used for deploying development and production environments should not be the same)
-4. Proper handling of CICD Pipeline Secrets
+Repository: https://github.com/Mha47/c3g2-capstone-rev1
 
 <br>
 
 # Getting started
-https://github.com/Dylon-Chan/group2-capstone-project/assets/20112494/cb6253f4-50fb-4e00-82cb-1ec8d9f5a535
+
 
 # Application Design
 
