@@ -3,17 +3,17 @@
 ## Members: Neo Chih Hao, Zaw Nyein Aung, Sharir, Nasiruddin, Soh Guo Yuen
 <br>
 
-# Project 
+## Project 
 Project Name: Wadapdoge
 
 Repository: https://github.com/Mha47/c3g2-capstone-rev1
 
+Description: Wadapdoge is an instant messaging application based on socket.io. It allows users to log into a chatroom to chat with their friends anywhere in realtime. Users are also able to see the number of other users online within the chat as well as customize their own nicknames prior to logging into the chatroom. 
 <br>
 
-# Getting started
 
 
-# Application Design
+## Application Design
 
 ## Software Architecture
 ChatSecure offers a dynamic platform for instant messaging. Upon accessing, users are prompted to set a unique username. To make each participant distinct, the system automatically assigns a unique color to every username. Moreover, users can see the new joiners and the current number of participants in the chat room, adding a layer of interactivity.
