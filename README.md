@@ -46,7 +46,10 @@ The backend is also containerized and deployed via AWS ECS.
 - More tests are run on the code here before push to Prod.
   
 ### Prod branch
-- 
+- Represents the production-ready state of the application.
+- It contains stable and thoroughly tested code that is ready to be deployed to the live environment.
+- Only fully reviewed and approved code changes are merged from stage into the production branch.
+- It is typically protected, meaning that direct commits or modifications are restricted, and changes can only be introduced through pull requests after thorough code review and testing.
 ## Workflow
 
 
