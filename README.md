@@ -11,16 +11,22 @@ Repository: https://github.com/Mha47/c3g2-capstone-rev1
 Description: Wadapdoge is an instant messaging application based on socket.io. It allows users to log into a chatroom to chat with their friends anywhere in realtime. Users are also able to see the number of other users online within the chat as well as customize their own nicknames prior to logging into the chatroom. 
 <br>
 
-
 ## Application Design
 
-Wadapdoge
-
-### Backend:
-Crafted with NodeJS, the backend harnesses the power of the Express framework for the web functionalities. Real-time communication is achieved through the socket.io library.
+Wadapdoge consists of a frontend and backend. 
 
 ### Frontend:
-The user interface is designed using a blend of HTML, CSS, and JavaScript.
+The frontend is designed using html, javascript and css. 
+
+### Backend:
+Backend consists of code using Node.JS, express framework and the socket.io library. 
+
+The backend is also containerized and deployed via AWS ECS. 
+
+### Architecture:
+
+
+
 
 ## Infrastructure Architecture
 ![image](https://github.com/Dylon-Chan/group2-capstone-project/assets/20112494/cbd2e0f7-9dd6-46d8-b8a2-b506f36261ec)
