@@ -31,5 +31,22 @@ The backend is also containerized and deployed via AWS ECS.
 
 ![Screenshot 2023-12-12 234053](https://github.com/Mha47/chatapp-try/assets/134026955/58e09d26-f757-406e-aa0b-c18db7edcfb3)
 
+### Dev branch
+- serves as primary integration branch for ongoing development work.
+- acts as a staging area for features and bug fixes before they are merged into the main branch.
+- Developers regularly merge their completed feature branches into the dev branch for integration testing and collaboration.
+
+### Feature branch
+- Created by developers to work on specific features or bug fixes independently. 
+- Represents a self-contained task or feature development.
+- Once the feature is completed it is merged into the dev branch for further integration. 
+
+### UAT branch
+- Serves as the User Acceptance Test staging area.
+- More tests are run on the code here before push to Prod.
+  
+### Prod branch
+- 
+## Workflow
 
 
